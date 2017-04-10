@@ -1,0 +1,21 @@
+html,
+body{
+  margin: 0;
+
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+h2{
+  text-align: center;
+}
+.wrapper{
+  padding: 30px;
+  height: auto;
+}
+footer{
+  background-color: gray;
+
+  display: table-row;
+  height: 2px;
+}
